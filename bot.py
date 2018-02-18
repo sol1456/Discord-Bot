@@ -33,7 +33,7 @@ async def on_message(msg):
 		await client.send_file(msg.channel, './test.text')
 
 	if message_content('mention'):
-		await client.send_message(msg.channel, '<@391405352840593411>')
+		await client.send_message(msg.channel, '<@UserId>')
 
 
 	if message_content('server -name'):
