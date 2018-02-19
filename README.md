@@ -1,5 +1,11 @@
 # Discord-Bot
 
-## Install
+## Description
+	
+	Python 3.6.3
 
-  >>> pip install discord
+	This repository uses discord.py
+
+	Install the package with pip
+
+	>>> pip install discord
